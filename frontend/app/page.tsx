@@ -15,7 +15,7 @@ export default async function Home() {
             Encore Docs <span>-&gt;</span>
           </h2>
           <p>
-            Learn how to build cloud backends using the Encore´s Development
+            Learn how to build cloud backends using the Encore s Development
             Platform.
           </p>
         </a>
@@ -36,7 +36,7 @@ export default async function Home() {
             Local Dev Dash <span>-&gt;</span>
           </h2>
           <p>
-            Access Encore's local development dashboard when running Encore
+            Access Encore s local development dashboard when running Encore
             locally.
           </p>
         </a>

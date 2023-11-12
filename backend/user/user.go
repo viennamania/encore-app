@@ -1,5 +1,6 @@
 package user
 
+
 import (
 	"context"
 	"fmt"
@@ -37,6 +38,7 @@ func GetUser(ctx context.Context, id string) (*UserResponse, error) {
 	}
 	return nil, fmt.Errorf("user with id %s not found", id)
 }
+
 
 type UserResponse struct {
 	User User `json:"user"`

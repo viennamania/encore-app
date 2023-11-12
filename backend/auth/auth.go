@@ -7,6 +7,7 @@ import (
 	"encore.dev/rlog"
 )
 
+
 const TOKEN = "dummy-token"
 
 type LoginRequest struct {
